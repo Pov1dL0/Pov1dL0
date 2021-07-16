@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pov1dL0
+- 👀 I’m interested in BI
+- 🌱 I’m currently learning DAX
+- 💞️ I’m looking to collaborate on BI Visualisations
